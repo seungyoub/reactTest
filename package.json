@@ -1,0 +1,24 @@
+{
+  "name": "name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seungyoub/reactTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seungyoub/reactTest/issues"
+  },
+  "homepage": "https://github.com/seungyoub/reactTest#readme",
+  "dependencies": {
+    "react": "^15.3.1",
+    "react-addons-update": "^15.3.1",
+    "react-dom": "^15.3.1"
+  }
+}
