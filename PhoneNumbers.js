@@ -3,6 +3,7 @@ import PhoneNumbersInfo from './PhoneNumbersInfo'
 import AddPhoneNumber from './AddPhoneNumber'
 import EditPhoneNumber from './EditPhoneNumber'
 
+//npm install --save react-addons-update
 import update from 'react-addons-update'
 
 class PhoneNumbers extends React.Component{
@@ -26,6 +27,7 @@ class PhoneNumbers extends React.Component{
       }
     }
   }
+
 
   _addPhoneNumber() {
     this.setState({

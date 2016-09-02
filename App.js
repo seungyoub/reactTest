@@ -5,6 +5,8 @@ import RandomNumber from './RandomNumber';
 import MyRandomNumber from './MyRandomNumber';
 import PhoneNumbers from './PhoneNumbers'
 
+import { Router, Route, Link, browserHistory, IndexRoute } from 'react-router'
+
 class App extends React.Component {
 
   constructor(props){
